@@ -1,4 +1,4 @@
-# Function Calling with OpenAI and rag similarity search with ChromaDB 
+# Function Calling with OpenAI and RAG similarity search with ChromaDB 
  
 ## Mô tả
 Đây là ứng dụng sử dụng OpenAI và ChromaDB để sử dụng các công cụ tùy chỉnh. 
